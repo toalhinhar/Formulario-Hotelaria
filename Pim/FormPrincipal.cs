@@ -49,6 +49,21 @@ namespace Pim
         {
             AbrirPainelBody(new Forms.Hospedes(), sender);
         }
+
+        private void FormPrincipal_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panelTitle_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void panelBody_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
 
